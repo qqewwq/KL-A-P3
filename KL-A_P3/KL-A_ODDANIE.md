@@ -2,7 +2,7 @@
 
 **Zespół:** Diana Kalinina - 164014; Oleksandr Shamak - 161578
 **Data:** 2026-10-12  
-**Repozytorium:** [link], tag `KL-A`
+**Repozytorium:** https://github.com/qqewwq/KL-A-P3, tag `KL-A`
 
 ## Cel i zmienne zależne
 
