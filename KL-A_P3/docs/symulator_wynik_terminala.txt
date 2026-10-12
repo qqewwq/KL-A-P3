@@ -1,0 +1,12 @@
+12.10.2026 – wynik poleceń z Terminala przesłany przez autorkę
+
+$ python3 symulator_biosygnalow.py --mode file --duration 60 --out nagranie.jsonl
+Zapisano nagranie.jsonl
+
+$ ls -lh nagranie.jsonl
+-rw-r--r--  1 dklnn staff 28K Oct 12 20:06 nagranie.jsonl
+
+$ wc -l nagranie.jsonl
+241 nagranie.jsonl
+
+
