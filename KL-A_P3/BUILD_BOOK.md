@@ -13,7 +13,7 @@
 - **Zespół:** DK – Diana Kalinina - 164014; OS - Oleksandr Shamak - 161578
 - **Podział pracy (KL-A):** DK – instalacja PsychoPy i uruchomienie demo; OS – uruchomienie symulatora i zapis 60-sekundowego nagrania, analiza pól i jakości danych, weryfikacja elementów środowiska (pylsl, LabRecorder, MouseGaze, EyeLogic/GSR-EDA) oraz przygotowanie pytań 14.2 i 14.4.
 - **Repozytorium:** [adres prywatnego repozytorium po utworzeniu]. **Tag:** `KL-A` (do utworzenia).
-- **Komputer do wykonania KL-A:** MacBook Air z Apple Silicon; **system:** macOS (dokładny numer wersji do sprawdzenia).
+- **Komputer do wykonania KL-A:** MacBook Air z Apple Silicon; **system:** macOS.
 - **PsychoPy:** aplikacja Standalone pobrana jako `StandalonePsychoPy-2025.2.4-macOS-3.10.dmg`; w uruchomionej aplikacji widoczna była wersja **2025.2.4beta**. Wymaga potwierdzenia w oknie *About* i uzgodnienia tej samej wersji z drugą osobą zespołu.
 - **Uruchomienie aplikacji:** przez Rosetta 2 (wersja instalacji dla procesorów Intel).
 - **Python używany w terminalu:** `python3`; dokładna wersja: **[wynik `python3 --version`]**. Wersja Pythona wewnątrz PsychoPy może być inna.
